@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:AADD44A8-3456-44F9-8F97-63A7E19BBEC8</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-07-26T15:46:26-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:49E67F7E-D1C8-4666-B165-453EFEF3F4B8</id>
+  <title>Emulators</title>
+  <title xmlns="urn:iweb:">Emulators</title>
+  <in-navbar xmlns="urn:iweb:">49E67F7E-D1C8-4666-B165-453EFEF3F4B8</in-navbar>
+  <link rel="alternate" href="Emulators.html"/>
+  <updated>2015-07-26T15:46:26.001-07:00</updated>
+  <content>Emulators</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:804D030A-F70C-4AB5-92C4-D6A64E59D63F</id>
+  <title>Games</title>
+  <title xmlns="urn:iweb:">Games</title>
+  <in-navbar xmlns="urn:iweb:">804D030A-F70C-4AB5-92C4-D6A64E59D63F</in-navbar>
+  <link rel="alternate" href="Games.html"/>
+  <updated>2015-07-26T15:46:26.002-07:00</updated>
+  <content>Games</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:348F4C8F-FB52-4B0F-9EB5-09230F621376</id>
+  <title>Other</title>
+  <title xmlns="urn:iweb:">Other</title>
+  <in-navbar xmlns="urn:iweb:">348F4C8F-FB52-4B0F-9EB5-09230F621376</in-navbar>
+  <link rel="alternate" href="Other.html"/>
+  <updated>2015-07-26T15:46:26.003-07:00</updated>
+  <content>Other</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6B638D01-E144-4792-82C3-51A434328B16</id>
+  <title>Installing Homebrew</title>
+  <title xmlns="urn:iweb:">Installing Homebrew</title>
+  <in-navbar xmlns="urn:iweb:">6B638D01-E144-4792-82C3-51A434328B16</in-navbar>
+  <link rel="alternate" href="Installing_Homebrew.html"/>
+  <updated>2015-07-26T15:46:26.004-07:00</updated>
+  <content>Installing Homebrew</content>
+ </entry>
+</feed>
